@@ -212,8 +212,8 @@ npx live-server --port=3000
 
 - **URL:** `http://localhost:3000`
 - **Credenciais padrão:**
-  - Usuário: `administrador.hof`
-  - Senha: `Cpd@090966`
+  - Usuário: `seu usuario`
+  - Senha: `sua senha`
 
 ---
 
@@ -353,7 +353,6 @@ of this software and associated documentation files...
 
 ## 🙏 Agradecimentos
 
-- **OpenWeatherMap** - Inspiração para o design
 - **Chart.js** - Biblioteca de gráficos
 - **Font Awesome** - Ícones
 - **Comunidade de desenvolvedores** - Suporte e inspiração
@@ -362,7 +361,6 @@ of this software and associated documentation files...
 
 ## 💡 Curiosidades
 
-- O sistema usa **Glassmorphism** para um design moderno
 - As categorias são **dinâmicas** baseadas na equipe selecionada
 - Os chamados podem ter **anexos** (imagens e documentos)
 - O histórico de **suspensões** é mantido para auditoria
@@ -397,20 +395,7 @@ Se você gostou deste projeto, considere:
 
 ---
 
-**Sistema de Chamados TI - Gerenciamento simples e eficiente** 🚀
+**Sistema de Chamados TI** 🚀
 
 *Última atualização: Junho de 2026*
 ```
-
----
-
-## 📁 Como adicionar o README
-
-1. Na pasta raiz do seu projeto, crie um arquivo chamado `README.md`
-2. Copie todo o conteúdo acima
-3. Salve o arquivo
-4. Se estiver no GitHub, ele vai aparecer automaticamente na página inicial
-
----
-
-**Agora seu projeto tem documentação profissional completa!** 🎉
